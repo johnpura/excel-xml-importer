@@ -21,6 +21,8 @@ mysql < store.sql
 
 Navigate to `http://localhost/excel-xml-importer/` in a browser to see the output.
 
+Use `store.xml` for the file to import.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
