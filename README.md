@@ -4,31 +4,26 @@ Excel XML Importer is a PHP script that imports data from an Excel XML spreadshe
 
 ## Installation
 
-clone the project into you web root.
+Clone the project into you web root.
 
-```bash
-git clone 
 ```
+git clone git@github.com:johnpura/excel-xml-importer.git
+```
+
+Import the the `store.sql` SQL script into MySQL through phpMyAdmin or through the MySQL console.
+
+```
+mysql < store.sql
+```
+
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Navigate to `http://localhost/excel-xml-importer/` in a browser to see the output.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
