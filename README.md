@@ -1,6 +1,6 @@
 # Excel XML Importer
 
-Excel XML Importer is a PHP script that imports data from an Excel XML spreadsheet into a MySQL database.
+Excel XML Importer is a PHP script that extracts data from an Excel XML spreadsheet into imports the data into a MySQL database.
 
 ## Installation
 
